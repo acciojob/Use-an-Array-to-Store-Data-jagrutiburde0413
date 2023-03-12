@@ -1,2 +1,2 @@
-let array=["janu", 1, true, 2, 'trishul']
-console.log(array.length)
+let yourArray=["janu", 1, true, 2, 'trishul']
+console.log(yourArray.length)
