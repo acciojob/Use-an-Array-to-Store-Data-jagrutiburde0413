@@ -1,2 +1,4 @@
 let yourArray=["janu", 1, true, 2, 'trishul']
-console.log(yourArray.length)
+for(var i=0;i<yourArray.length;i++){
+	console.log(yourArray[i])
+}
